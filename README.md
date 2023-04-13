@@ -36,4 +36,7 @@ Desenvolvedora de Web Sites WordPress
   ### Projeto Enactus - Fenix:
   
  Perfil Dayanni: https://github.com/defaultdayanni
+ 
  Projeto Original: https://github.com/defaultdayanni/fenix_10oficina 
+ 
+ Anexo da Loja na Glith: https://glitch.com/~loja-enactus
